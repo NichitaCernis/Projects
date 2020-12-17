@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html>
+    <head> 
+        <title>
+            Heeeeeeeeey
+        </title>
+        <meta charset="UTF-8"
+        <link rel="stylesheet" href="style.css"
+    </head>
+
+    <body>
+        <section>
+                <h1>
+                    Heey
+                </h1>
+                    <hr>
+                <h2>
+                    Hi
+                </h2>
+                    <hr>
+        </section>
+        <img src=""> 
+        <a href=""> </a> 
+    </body>
+</html>
+
+<img src="" alt="??">  -> alt = Alternative -> alternative title if the image dosnt load
